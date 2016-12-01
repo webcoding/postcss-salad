@@ -1,7 +1,7 @@
 {
-  "name": "postcss-salad",
-  "version": "1.0.4",
-  "description": "沙拉是一个能够帮助你更加写出更加简洁、优雅的CSS的样式解决方案。",
+  "name": "postcss-tools",
+  "version": "1.0.5",
+  "description": "postcss-tools 工具箱是一个能够帮助你更加写出更加简洁、优雅的CSS的样式解决方案。",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run babelify && npm run tape",

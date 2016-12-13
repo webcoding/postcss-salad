@@ -1,6 +1,6 @@
 {
   "name": "postcss-tools",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "postcss-tools 工具箱是一个能够帮助你更加写出更加简洁、优雅的CSS的样式解决方案。",
   "main": "lib/index.js",
   "scripts": {
@@ -29,8 +29,7 @@
     "postcss-short": "^1.4.0",
     "postcss-utils": "^1.0.1",
     "precss": "^1.4.0",
-    "saladcss-bem": "^0.0.1",
-    "saladcss-partial-import": "^1.0.1"
+    "saladcss-bem": "^0.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",

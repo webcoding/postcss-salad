@@ -5,7 +5,7 @@ import libraryFeatures from "./features"
 import featuresActivationMap from "./features-activation-map"
 import warnForDuplicates from "./warn-for-duplicates"
 
-const plugin = postcss.plugin("postcss-salad", (options) => {
+const plugin = postcss.plugin("postcss-tools", (options) => {
   options = {
     console: console,
     warnForDuplicates: true,

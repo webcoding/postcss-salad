@@ -2,7 +2,7 @@
 
 [postcss-tools](https://github.com/webcoding/postcss-tools) 基于 [postcss-salad](https://github.com/ElemeFE/postcss-salad) 二次开发
 
-# Postcss-salad <img align="right" width="96" height="96" src="http://elemefe.github.io/postcss-salad/svg/logo.svg" title="salad logo" style="margin: -60px 30px 0 0;">
+## Postcss-salad <img align="right" width="96" height="96" src="http://elemefe.github.io/postcss-salad/svg/logo.svg" title="salad logo" style="margin: -60px 30px 0 0;">
 
 [![Build Status][travis-img]][travis]
 [![Version][version]](https://github.com/ElemeFE/postcss-salad/blob/master/CHANGELOG.md)
@@ -55,7 +55,7 @@
 }
 ```
 
-## Usage
+### Usage
 
 - [Node](#node)
 - [PostCSS](#postcss)
@@ -114,6 +114,7 @@ gulp.task('css', function () {
   );
 });
 ```
+
 #### [webpack](id:webpack)
 
 ```js
@@ -149,7 +150,6 @@ var options = {
   }
 }
 ```
-
 
 ### Plugins
 

@@ -56,9 +56,9 @@ export default {
   shape: (options) => require("postcss-shape")(options),
 
   // https://npmjs.com/package/pixrem
-  rem: (options) => require("pixrem")(options),
+  // rem: (options) => require("pixrem")(options),
 
-  // // https://npmjs.com/package/autoprefixer  // cssnext 已包含
+  // // https://npmjs.com/package/autoprefixer
   // autoprefixer: (options) => require("autoprefixer")(options),
 
   // https://npmjs.com/package/postcss-neat
